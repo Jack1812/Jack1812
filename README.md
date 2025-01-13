@@ -10,7 +10,7 @@
 - 📝 I am a graduate IES "JOSE CARLOS MARIATEGUI"
 - 💬 Ask me about: anything, I am happy to help
 - 	<img src="https://komarev.com/ghpvc/?username=Jack1812&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
-	<a href="https://github.com/Jack1812?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
+	<a href="https://github.com/Jack1812?tab=followers"><img src="https://img.shields.io/github/followers/Jack1812?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br><br><br>
 
 
